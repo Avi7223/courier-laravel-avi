@@ -46,7 +46,7 @@ Once published to GitHub, add it to your Bagisto project's `composer.json` (unti
 ```
 
 ```bash
-composer require rajibbinalam/bagisto-courier:dev-main
+composer require avi7223/courier-laravel-avi:dev-main
 ```
 
 (Once you tag releases and/or submit it to Packagist, this simplifies to just `composer require rajibbinalam/bagisto-courier`.)
